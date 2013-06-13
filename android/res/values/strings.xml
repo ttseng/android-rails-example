@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phobos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name_of_project">Name</string>
+    <string name="add_project">Add Project</string>
+    <string name="title_activity_add_project_view">AddProjectView</string>
+
+</resources>
